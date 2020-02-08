@@ -1,0 +1,7 @@
+*db.sqlite*
+venv/
+hub_config/jupyterhub-proxy.pid
+hub_config/jupyterhub.sqlite
+hub_config/jupyterhub_cookie_secret
+*.pyc
+*pycache*

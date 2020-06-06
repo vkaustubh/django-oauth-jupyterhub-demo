@@ -10,7 +10,7 @@ chardet==3.0.4
 cryptography==2.8
 decorator==4.4.1
 defusedxml==0.6.0
-Django==2.2.10
+Django==2.2.13
 django-cors-middleware==1.4.0
 django-oauth-toolkit==1.2.0
 entrypoints==0.3
